@@ -1,0 +1,20 @@
+{
+	"name": "ideenkonzept/easter",
+	"description": "Easter Date Handler",
+	"type": "library",
+	"require": {
+		"nesbot/carbon": "^1.25"
+	},
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Ahmed M Dabak",
+			"email": "ahmed-dbak@hotmail.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Idennkonzept\\Easter\\": "/src"
+		}
+	}
+}
