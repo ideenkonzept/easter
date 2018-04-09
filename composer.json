@@ -9,12 +9,12 @@
 	"authors": [
 		{
 			"name": "Ahmed M Dabak",
-			"email": "ahmed-dbak@hotmail.com"
+			"email": "ahmed-dabak@hotmail.com"
 		}
 	],
 	"autoload": {
 		"psr-4": {
-			"Idennkonzept\\Easter\\": "/src"
+			"Ideenkonzept\\Easter\\": "src/"
 		}
 	}
 }
